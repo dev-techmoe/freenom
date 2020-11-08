@@ -86,7 +86,6 @@ Documentation: [English version](https://github.com/luolongfei/freenom/blob/mast
 ***
 
 </details>
-
 <details>
     <summary>设置QQ邮箱</summary>
 <br>
